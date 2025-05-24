@@ -6,7 +6,7 @@ Este repositorio contiene los archivos relacionados con la prueba técnica de Tu
 
 ## Archivos 📂
 
-- `data`: Archivo Excel proporcionado (según lo indicado en el correo)
+- `Prueba proceso de selección Analista de Datos - bases.xlsx`: Archivo Excel proporcionado (según lo indicado en el correo)
 - `README.md`: Este archivo (documentación)
 
 ## Aviso Legal ⚠️
